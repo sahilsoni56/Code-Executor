@@ -1,7 +1,5 @@
 # 🚀 Code Executor
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/code-executor/deploys)
-
 **Code Executor** is a web-based platform that allows users to write and run code in multiple programming languages, powered by the [Piston API](https://github.com/engineer-man/piston). The app provides a smooth coding experience with a responsive and accessible UI, designed using Chakra UI, and is built on top of Vite for fast development.
 
 ## 🌟 Features
@@ -18,9 +16,6 @@
 - **Build Tool**: [Vite](https://vitejs.dev/)
 - **Deployment**: [Netlify](https://www.netlify.com/)
 
-## 📸 Screenshots
-
-<img src="your-image-url-here" alt="Code Executor UI Screenshot" width="800" />
 
 ## 🎯 How to Use
 
